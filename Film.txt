@@ -1,0 +1,8 @@
+<film>
+	<title>El señor de los anillos</title>
+	<description></description>
+	<year></year> 
+	<awards></awards>
+	<casting></casting>
+	<gender></gender>
+</film>
